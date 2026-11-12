@@ -1,0 +1,27 @@
+{
+ "token": "eths",
+ "bridge": "0x03f84C2b50442332802b7ca8DBbEfAd1633F2547",
+ "recipient": "0xb2d05f8eb37103dca29efc69e6a9fc6be8d02d97",
+ "claimRoot": "0xdd66ab8f6d25c8f8657da7449496afe60297ff21fa780df9ca9d0ed094abee00",
+ "inscriptions": 1,
+ "leaves": [
+  {
+   "leafIndex": 629,
+   "ids": [
+    "0xab6c99e2bafd6f789e9bbe4795957e49a2b9c7b500cb02640e38f1901b6bb22a"
+   ],
+   "proof": [
+    "0x43e1fab4995b521cc9e8c17e0603a69bac479a35c948498fbc77e11026056788",
+    "0xc2fdea303ee3e8513a119589338c9ad49a94274db5abcef79c9506dc3a41b61f",
+    "0xfeae68984dce2c949b68ff2f6ee779cc9cfe4596df563dab8209eb432e396735",
+    "0xacbb481d83d658610f4e0d1e6d32302df8401184b879305410df0019acb6a811",
+    "0x5bba2b1b691cbd25e52854239af1fbc34746277ab6d1eec5533fb4ad84ca7ae9",
+    "0xb7956315328611cf4df9062a956ed058cabec0b3d374b47f0c131bebefd76ed0",
+    "0x6f1fdae57c899fe0c1fd015e262fa00f8a583cffbf19110e020dff40fac7b7a3",
+    "0xf02610c1ce5b8179496e1311b4c0571df49fa388ba9d0d5d14c5d2cbec3d2175",
+    "0xc7cd8d7c8232f45fabfe525cf8f372a7adcb292598bd087adc86996e972704c4",
+    "0x04c92b32314cbc28fff0f8d566fbc22ef88eeff46ddb4c7e19c2f14ce42a978d"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "token": "mfpurrs",
+ "bridge": "0xAFd1c394F054eF0845e64429AAAF8c6CA8F51306",
+ "recipient": "0x0533bc329e8b3c2beade0fe4ce4e5a26a63ce846",
+ "claimRoot": "0x06f1bac696df13d8fa337d288a7abf0f6f587d01419834de76f2cf7b90a4ab67",
+ "inscriptions": 1,
+ "leaves": [
+  {
+   "leafIndex": 1,
+   "ids": [
+    "0x00ae503faecfe077d7c83747c2ca19f03dc2eaa6cbfb919cdf1de653a701437d"
+   ],
+   "proof": [
+    "0xd3d649b986a164f6b8099945ecea350047ee4f8552d7fb7702fb83f4ac49efc8",
+    "0x14cabb3c4d39a778f2517a228f9b9f2772337d949816d11d1f0959717b7e5afd",
+    "0xfd0d24a1a7aba7017eed171396eeded15565dc424f9884aeae1e55cdc48e0b70",
+    "0xc8da6f5d709ddaf9506186d05612b71d580bc31d21c940dccbfcecc58edf20bc",
+    "0x69b16b04d6229aad41674d4f69ac56bfec68076c3864c69e15ca0d0dff85df78",
+    "0x497e56d81f6462ed9bca53a4b02c8541fd51824377c8220ba9ee57693c949552"
+   ]
+  }
+ ]
+}

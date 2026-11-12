@@ -1,0 +1,56 @@
+{
+ "l1_block": 26401162,
+ "l1_hash": "0xc71e876569454cd5f4c749f668eea9f727602dbf9ce68fea12f35357369ddec9",
+ "facet_block": 5055804,
+ "claims_implementation": "0x5dDF2BdC128D1940A5a7F385f6D2Eb744ba828BE",
+ "tokens": {
+  "eths": {
+   "bridge": "0x03f84C2b50442332802b7ca8DBbEfAd1633F2547",
+   "claimRoot": "0xdd66ab8f6d25c8f8657da7449496afe60297ff21fa780df9ca9d0ed094abee00",
+   "leafCount": 917,
+   "recipients": 915,
+   "inscriptions": 8996,
+   "dataURI": "https://github.com/0xFacet/facet-bridge-claims/tree/main/claims/eths (one file per address; any copy verifies against claimRoot)"
+  },
+  "Facet": {
+   "bridge": "0x061eAf68B2069Ed7708af1893f4499960a0156c5",
+   "claimRoot": "0x202291497aca00247979ed35a0b08dedf2579a036c424b581cc7305e9960a084",
+   "leafCount": 495,
+   "recipients": 494,
+   "inscriptions": 8409,
+   "dataURI": "https://github.com/0xFacet/facet-bridge-claims/tree/main/claims/Facet (one file per address; any copy verifies against claimRoot)"
+  },
+  "gwei": {
+   "bridge": "0x91DC93cD8336d30a4679b1d29C9592C117a896FD",
+   "claimRoot": "0x52a7e359ab656c68f9207bc0f619da08b015c2f896b7c1719169af675a151811",
+   "leafCount": 56,
+   "recipients": 55,
+   "inscriptions": 924,
+   "dataURI": "https://github.com/0xFacet/facet-bridge-claims/tree/main/claims/gwei (one file per address; any copy verifies against claimRoot)"
+  },
+  "dumb": {
+   "bridge": "0xB01278c0FC86D1CD4DE513ca03BF7dACc2DBD1A4",
+   "claimRoot": "0x62b93dd6c3534a4c874bc8286000be97bc524098019ebaf4af01de82f2921321",
+   "leafCount": 114,
+   "recipients": 114,
+   "inscriptions": 1802,
+   "dataURI": "https://github.com/0xFacet/facet-bridge-claims/tree/main/claims/dumb (one file per address; any copy verifies against claimRoot)"
+  },
+  "mfpurrs": {
+   "bridge": "0xAFd1c394F054eF0845e64429AAAF8c6CA8F51306",
+   "claimRoot": "0x06f1bac696df13d8fa337d288a7abf0f6f587d01419834de76f2cf7b90a4ab67",
+   "leafCount": 57,
+   "recipients": 56,
+   "inscriptions": 2358,
+   "dataURI": "https://github.com/0xFacet/facet-bridge-claims/tree/main/claims/mfpurrs (one file per address; any copy verifies against claimRoot)"
+  },
+  "nodes": {
+   "bridge": "0x000000000006F291B587f39B6960dd32e31400bF",
+   "claimRoot": "0x8f74cfd0ee1545519be01cd224f597e05464d329f7a636c4ddc6a17c83555ab4",
+   "leafCount": 1664,
+   "recipients": 533,
+   "inscriptions": 629083,
+   "dataURI": "https://github.com/0xFacet/facet-bridge-claims/tree/main/claims/nodes (one file per address; any copy verifies against claimRoot)"
+  }
+ }
+}
