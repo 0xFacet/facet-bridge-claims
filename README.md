@@ -35,6 +35,3 @@ cast send <bridge> "claim(uint256,address,bytes32[],bytes32[])" <leafIndex> <rec
 
 `python3 verify.py claims/<token>/<address>.json` checks your proofs against the file's root; `python3 verify.py --all` checks every package and file (Python 3, nothing to install). Compare the root with the bridge's `settlement()` → `claimRoot` on Etherscan (Read as Proxy). Any copy of these files, from anywhere, is valid if its root matches the one on chain.
 
-## How this was computed
-
-The snapshot, attribution rules, rounding and the run log are in [github.com/0xFacet/facet-bridge-api](https://github.com/0xFacet/facet-bridge-api) under `shutdown/` (data in `shutdown/data/live-2026-11-12/`). The claim contract is `FacetEthscriptionBridgeV7` (`0x5dDF2BdC128D1940A5a7F385f6D2Eb744ba828BE`, verified on Sourcify), installed on each bridge proxy with these roots. The bridges' upgrade admin (the Facet multisig) is retained, as the shutdown plan describes.
