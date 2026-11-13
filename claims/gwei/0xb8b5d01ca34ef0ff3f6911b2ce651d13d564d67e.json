@@ -1,0 +1,23 @@
+{
+ "token": "gwei",
+ "bridge": "0x91DC93cD8336d30a4679b1d29C9592C117a896FD",
+ "recipient": "0xb8b5d01ca34ef0ff3f6911b2ce651d13d564d67e",
+ "claimRoot": "0x52a7e359ab656c68f9207bc0f619da08b015c2f896b7c1719169af675a151811",
+ "inscriptions": 1,
+ "leaves": [
+  {
+   "leafIndex": 37,
+   "ids": [
+    "0xdbd939fe5f9e1a6af1ee170a80452d22de668421f01b8a2889daf3a17f6f148b"
+   ],
+   "proof": [
+    "0xd0f834dfc47a27c9566c10253dddf16fa06950bc75f36605556cc31d78ab1957",
+    "0xe8d74aab0e6beb20f749a65b256fbf54d0c7817c82370984b2332b5a54c9e567",
+    "0x23b5d7860cd162f7644feb4982f4aacf0fd0af35cad3f471d9490efcfa398b4d",
+    "0x401688a496b4082ee3bbb37781e1b2166823862e798c71b2e8372aeeb9daac72",
+    "0x7187d32ab7818ce20c8af47949bb94e7ef2a95e67d251f651c57ff9ce7ad5972",
+    "0xd4c493877a8b64207a4a1d23bded30b4931a51b378b2f4397e411839b2dcc7da"
+   ]
+  }
+ ]
+}
