@@ -4,6 +4,7 @@ The Facet bridges closed on 2026‑11‑12 at Ethereum block 26,401,162 (Facet b
 
 - **Bridged ETH (WETH on Facet)** was sent directly to holders in 47 batches from the WETH bridge `0x0000000000000b07ED001607f5263D85bf28Ce4C`: 256.255414 ETH to 9,272 addresses. The list is in `eth/payout.csv`. Nothing to claim.
 - **Bridged Ethscriptions** (eths, Facet, gwei, dumb, mfpurrs, nodes) are claimed from each token's original L1 bridge contract. Each bridge stores a Merkle root of who receives which inscriptions. This repository holds the data needed to claim.
+- **eths** is delivered to every recipient without any action on their part: the team submits every eths claim. If yours has not arrived yet, you can claim it yourself as below.
 
 | Token | Bridge (claim here) | claimRoot | Recipients | Inscriptions |
 |---|---|---|---:|---:|
